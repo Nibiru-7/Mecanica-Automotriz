@@ -1,0 +1,27 @@
+# Python
+_pycache_/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+*.egg
+*.egg-info/
+dist/
+build/
+lib/
+lib64/
+site/
+tmp/
+
+# Node.js (si tienes dependencias de JS, como node_modules)
+node_modules/
+
+# Archivos de entorno y secretos
+.env
+.env.*
+*.log
+*.sqlite3 # Si usas SQLite
+*.db # Otros archivos de base de datos
